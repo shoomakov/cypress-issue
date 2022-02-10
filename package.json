@@ -69,7 +69,7 @@
     "eslint-plugin-vue": "^6.0.0",
     "html-loader": "^0.5.5",
     "lint-staged": "^9.2.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "npx": "^10.2.0",
     "raw-loader": "^4.0.0",
     "sass-loader": "^7.2.0",
